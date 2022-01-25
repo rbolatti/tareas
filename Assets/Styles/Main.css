@@ -1,0 +1,19 @@
+body, html {
+   font-family:  'Roboto', sans-serif;
+  
+  }
+
+
+  .estilobtn1{
+    width: 245px;
+  
+}
+
+
+  
+  
+  @media only screen and (max-width: 1800px) {
+    .estilobtn1 {
+        width: 154px;
+    }
+}
